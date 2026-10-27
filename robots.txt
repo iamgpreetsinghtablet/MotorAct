@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motoract.vercel.app/sitemap.xml
